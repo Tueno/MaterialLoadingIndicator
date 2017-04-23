@@ -1,7 +1,7 @@
 # MaterialLoadingIndicator
  Material like loading indicator sample  for iOS.
 
-* Written by Swift3.0
+* Written by Swift3.0 (Thanks @pawankmrai)
 * You can copy classes from sample.playground for use in your project.
 
 ![preview](https://github.com/Tueno/MaterialLoadingIndicator/blob/master/sample.gif?raw=true)
