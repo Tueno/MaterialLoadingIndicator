@@ -1,5 +1,5 @@
 # MaterialLoadingIndicator
- Material like loading indicator sample  for iOS.
+ Materialish progress indicator sample code for iOS.
 
 * Written by Swift3.0 (Thanks @pawankmrai)
 * You can copy classes from sample.playground for use in your project.
